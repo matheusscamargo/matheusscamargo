@@ -17,7 +17,7 @@ Cursando o 4° Semestre
 **TCS - Tata Consultancy Services ** -
 Trainee no projeto do Itaú
 
-* (2022 -  Atual) <br>
+* (2022) <br>
 **TCS - Tata Consultancy Services ** -
 Estagiário de TI na Tata Consultancy Services
   * Treinamentos dseguindo trilhas de aprendizagem.

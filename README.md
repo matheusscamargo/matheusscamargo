@@ -9,7 +9,7 @@ Meu nome é Matheus Sitta Camargo, sou Estagiário de TI na Tata Consultancy Ser
 
 ## Formação
 Unifil - Engenharia de Software <br>
-Cursando o 4° Semestre
+Cursando o 5° Semestre
 
 ## Experência Profissional
 

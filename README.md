@@ -12,6 +12,11 @@ Unifil - Engenharia de Software <br>
 Cursando o 4° Semestre
 
 ## Experência Profissional
+
+* (2022 -  Atual) <br>
+**TCS - Tata Consultancy Services ** -
+Trainee no projeto do Itaú
+
 * (2022 -  Atual) <br>
 **TCS - Tata Consultancy Services ** -
 Estagiário de TI na Tata Consultancy Services

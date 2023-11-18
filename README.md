@@ -1,15 +1,15 @@
 # Matheus Sitta Camargo
-Estagiário de TI na Tata Consultancy Services
+Estagiário de Biblioteconomia na UEL
 
 :house:    Londrina/PR <br>
 :iphone:   (43) 98857 - 2599 <br>
 :envelope:  matheus_sitta1@edu.unifil.br
 
-Meu nome é Matheus Sitta Camargo, sou Estagiário de TI na Tata Consultancy Services, com grande interesse em Banco de dados. Apaixonado por futebol e curioso.
+Meu nome é Matheus Sitta Camargo, sou Estagiário de Biblioteconomia na UEL, com grande interesse em Banco de dados. Apaixonado por futebol e jack daniels.
 
 ## Formação
 Unifil - Engenharia de Software <br>
-Cursando o 5° Semestre
+Cursando a 10° DP 
 
 ## Experência Profissional
 
@@ -20,7 +20,6 @@ Trainee no projeto do Itaú
 * (2022) <br>
 **TCS - Tata Consultancy Services ** -
 Estagiário de TI na Tata Consultancy Services
-  * Treinamentos dseguindo trilhas de aprendizagem.
 
 * (2022) <br>
 **Retornar** -
